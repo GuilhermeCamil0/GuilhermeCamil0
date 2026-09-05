@@ -71,6 +71,6 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCamilo0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCamilo0&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCamil0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCamil0&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22" />
 </p>
