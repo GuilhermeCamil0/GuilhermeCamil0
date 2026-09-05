@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/guilherme-camilo-5977a035b" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:guilhermeocamilo@gmail.com" target="_blank">
+  <a href="mailto:seu-email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -30,7 +30,7 @@
       </ul>
     </td>
     <td width="35%" align="center">
-      <img src="perfil-github.jpg" width="180px" style="border-radius: 50%;" />
+      <img src="URL_DA_SUA_FOTO_AQUI" width="180px" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
