@@ -76,8 +76,6 @@
 
 ---
 
----
-
 ### 🐍 Snake
 
 <p align="center">
