@@ -79,7 +79,7 @@
 ### 🐍 Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GuilhermeCamil0/GuilhermeCamil0/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GuilhermeCamil0/GuilhermeCamil0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
