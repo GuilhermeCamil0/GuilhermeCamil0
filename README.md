@@ -73,3 +73,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeCamil0&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🐍 Contribuições do GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GuilhermeCamil0/GuilhermeCamil0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
