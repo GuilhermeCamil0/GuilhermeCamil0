@@ -13,7 +13,7 @@
   </a>
 </p>
 
-----
+---
 
 ### 🙋‍♂️ Sobre mim
 
@@ -45,7 +45,7 @@
 | JavaScript | Java *(Estudando)* | Git & GitHub |
 | HTML5 & CSS3 | Lógica e Estrutura de Dados | Engenharia de Requisitos (UML) |
 
-----
+---
 
 ### 🚀 Projetos em Destaque
 
@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-----
+---
 
 ### 📊 Estatísticas do GitHub
 
@@ -74,7 +74,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeCamil0&theme=tokyonight&hide_border=true&background=161b22" alt="GitHub Streak" />
 </p>
 
-----
+---
 
 ### 🐍 Snake
 
